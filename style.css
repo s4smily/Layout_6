@@ -1,0 +1,147 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    color: gray;
+    font-size: 30px;
+}
+
+header{
+
+    background-color: green;
+    text-align: center;
+}
+
+.hero{
+
+height: 100px;
+background-color: blueviolet;
+text-align: center;
+font-size: large;
+
+}
+
+.block{
+
+display: flex;
+height: 600px;
+
+}
+
+.left{
+
+    width: 50%;
+   
+
+}
+
+.block_a{
+
+height: 50%;
+background-color: aquamarine;
+text-align: center;
+
+}
+
+.block_b{
+    
+    height: 50%;
+    background-color: burlywood;
+    text-align: center;
+
+}
+
+.right{
+
+
+    width: 50%;
+    
+
+}
+
+.block_c{
+    
+    height: 200px;
+    background-color:indianred;
+    text-align: center;
+
+
+}
+
+.block_d{
+    height: 200px;
+    background-color: lawngreen;
+    text-align: center;
+
+}
+
+.block_e{
+
+    height: 200px;
+    background-color: khaki;
+    text-align: center;
+
+}
+.content_1{
+
+    height: 150px;
+    background-color: slateblue;
+    text-align: center;
+
+}
+
+.content_2{
+    height: 150px;
+    background-color: olive;
+    text-align: center;
+
+}
+
+.content_3{
+
+    height: 150px;
+    background-color: rebeccapurple;
+    text-align: center;
+
+
+
+}
+
+.ad{
+
+display: flex;
+height: 200px;
+
+}
+
+.ad_1{
+   
+    background-color: wheat;
+    text-align: center;
+    width: 33.33%;
+
+}
+
+.ad_2{
+    background-color: lightblue;
+    text-align: center;
+    width: 33.33%;
+
+}
+
+.ad_3{
+
+    background-color: rgb(146, 202, 161);
+    text-align: center;
+    width: 33.33%;
+
+}
+
+footer{
+
+    background-color: mediumvioletred;
+    text-align: center;
+    height: 50px;
+    font-size: 50px;
+    font: bold;
+}
